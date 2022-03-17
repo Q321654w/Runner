@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8210ea2e-7ec3-49d1-a4ac-51a67a2caa5f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/JMO Assets/Cartoon FX Easy Editor/Editor/CFXEasyEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7F64B9A0-B7F2-4244-A74A-54B0903C3523/ad/3e130678/UnClampedSwipeAxis.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/Views/EndGameView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/Games/Game.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D3F13D83-AE83-4EF2-8C65-5B9D7AEFC526/ee/57672823/FluidApplyDelta.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/Cubes/Factories/CubeFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E78BF727-8CF6-4FD1-82D0-2AD441C085ED/01/e2afb4e4/ConstantMultiplyDeltaPosition.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/90160AFA-4F1A-4FE3-80D4-2622C6E8B7FD/9b/35c1417e/UnClampedMouseAxis.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/LevelGenerators/CellTypes/CellType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/Maps/Map.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/Maps/Finishes/Finish.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/466EAA17-7941-4F65-A0B1-F38E7C065EBE/7b/0352afbe/UnClampedMouseAxis.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/LevelGenerators/LevelGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/LevelGenerators/DefaultGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/LevelGenerators/LevelGeneratorConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F9DE02FF-66AA-4B22-987D-4700B2379B0E/b3/95333a30/DeltaDecorator`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/GameUpdate/GameUpdates.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ACF12335-8018-41AD-8E49-882CB9ECD682/64/ade769c3/UnityDeltaTime.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/Barriers/Factories/BarrierFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/Installers/GameInstaller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/Cubes/Cube.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/243B8712-8A47-44E5-9F77-110514719287/04/742589f3/UnityDeltaTime.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E78BF727-8CF6-4FD1-82D0-2AD441C085ED/ff/03eb8a9d/TimerPredicate.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1BD4F5A4-5029-44FD-9D65-0141F4CEE7A5/6a/b35b6c51/XYDelta.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/07C89F75-2069-4139-9913-32D3CF930D48/95/56479588/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/Barriers/Barrier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/RiderProjects/Inputs/Unity/Axis/Keyboards/ConstantRawKeyAxis.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1BD4F5A4-5029-44FD-9D65-0141F4CEE7A5/5a/be748c32/XVector3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E78BF727-8CF6-4FD1-82D0-2AD441C085ED/8f/6ef34a59/CacheDeltaPositionWhile.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/Markers/CameraTransform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6AF207EC-D210-4462-8913-F7CC589986AE/43/5fd3b89e/Input.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/Players/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/Markers/PlayerStartPosition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/RiderProjects/Inputs/Unity/Axis/Swipes/UnClampedSwipeAxis.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/Markers/Marker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/RiderProjects/Inputs/Unity/Axis/Mouses/UnClampedMouseAxis.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/68079C8D-B74E-4E76-8E55-F1BBAB7F4781/64/e6cb3532/IValue`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/Markers/LevelMarker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E4B05A2A-F6CC-44D3-9B9D-363EA870943B/2b/5208951b/IPredicate.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E78BF727-8CF6-4FD1-82D0-2AD441C085ED/4b/b24dd808/Timer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/00BEE3C3-38F6-4F2E-BBD9-BDBFBC8DC9DB/d8/49ba6538/IAxis.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/Scores/Score.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/07C89F75-2069-4139-9913-32D3CF930D48/2a/511c958c/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/90160AFA-4F1A-4FE3-80D4-2622C6E8B7FD/14/0227dcf5/ConstantClampAxis.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/75830E1B-F9F8-46E0-8B0D-182F824546CF/0d/d048a136/UnClampedMouseAxis.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ECDD9F31-3115-4021-B4BF-E5ED389CB8C2/4c/e28efee3/AxisDecorator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ECDD9F31-3115-4021-B4BF-E5ED389CB8C2/48/421b011d/ConstantClampAxis.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/466EAA17-7941-4F65-A0B1-F38E7C065EBE/53/7c160e03/ConstantClampAxis.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7F64B9A0-B7F2-4244-A74A-54B0903C3523/d6/808e2e77/Range`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/Common/IHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1BD4F5A4-5029-44FD-9D65-0141F4CEE7A5/6a/f7e6602c/IDelta.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF6FC368-CF55-4A18-A2BE-172E67348462/f6/e83c8c8c/Timer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1BD4F5A4-5029-44FD-9D65-0141F4CEE7A5/0a/25aa907a/DeltaDecorator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1BD4F5A4-5029-44FD-9D65-0141F4CEE7A5/ff/a7bc5f9a/ConstantMultiplyDelta.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/Common/FloatRange.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/435D62A3-8F9F-4946-8817-670845B439E4/d6/6de6ff3f/UnClampedMouseAxis.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/270DD854-3278-473B-8278-59E0E6F1F85B/fc/063e2513/Movements.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/25364DA0-C7C8-44F1-A631-DE6BCEF2003A/95/f4003175/UnClampedSwipeAxis.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/Common/FollowForNearest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF6FC368-CF55-4A18-A2BE-172E67348462/fc/35b32271/DeltaProxy`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7F64B9A0-B7F2-4244-A74A-54B0903C3523/9f/d8f2e233/DirectionDecorator`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/Common/IntRange.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/966F8708-31F2-4357-ACEC-C7DF1AF2D310/8e/d1b0b343/ConstantClampAxis.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/Common/IFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/Common/DefaultCubeFactoryProxy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/966F8708-31F2-4357-ACEC-C7DF1AF2D310/eb/565b84b4/UnClampedSwipeAxis.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/Common/EmptyHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7F64B9A0-B7F2-4244-A74A-54B0903C3523/18/69013c87/FluidClampDirection.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/Common/CellTypeFloatPair.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Features/Common/SmoothStashDelta.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Features/BarrierGenerators/BarrierGeneratorConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/BarrierGenerators/BarrierGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/BarrierGenerators/FloatRange.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/LevelGenerator/LevelConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/LevelGenerator/LevelGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/LevelGenerators/CellTypeFloatPair.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/LevelGenerators/LevelConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Toony Colors Pro/Demo TCP2/Common Demo Assets/Scripts/TCP2_Demo_Interactive.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Installers/CubeGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/FloatRange.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Installers/FollowForFirst.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Installers/SmoothStashDelta.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/LevelGenerators/CubeGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/LevelGenerators/EmptyHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/LevelGenerators/LevelGeneratorConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/LevelGenerators/BarrierGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Common/ZSplit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/IntRange.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Common/FollowForFirst.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Common/IHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Markers/PlayerStartPosition.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Markers/CameraTransform.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/LevelGenerators/Cube/CubeGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Common/CorrectingDelta.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Barriers/Factories/BarrierFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/LevelGenerators/Barrier/BarrierGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/LevelGenerators/Barrier/DeffaultGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/LevelGenerators/Barrier/DefaultGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Common/DefaultCubeFactoryProxy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Maps/Finish.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Games/Score.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Games/EndGameView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Maps/Map.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Scores/Score.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/IFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/LevelGenerators/LevelGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Views/WinEndGameView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Views/LoseEndGameView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Views/EndGameView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Games/Game.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/LevelGenerators/DefaultGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Common/SmoothStashDelta.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Common/FollowForNearest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Common/IntRange.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Common/FloatRange.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Cubes/Factories/CubeFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Cubes/Cube.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Players/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/GameUpdate/GameUpdates.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Installers/GameInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Features/Common/IFactory.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="25vLCoRRhwVyQEqlvltJ5ptGLfT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.36023834" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30769232" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8210ea2e-7ec3-49d1-a4ac-51a67a2caa5f" name="Default Changelist" comment="" />
+      <created>1646402489083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646402489083</updated>
+      <workItem from="1646402499249" duration="8291000" />
+      <workItem from="1646469719528" duration="10765000" />
+      <workItem from="1646481777280" duration="2261000" />
+      <workItem from="1646485628493" duration="995000" />
+      <workItem from="1646487064044" duration="5741000" />
+      <workItem from="1646493266543" duration="8480000" />
+      <workItem from="1646502642353" duration="6454000" />
+      <workItem from="1646565028540" duration="132000" />
+      <workItem from="1646565501449" duration="2833000" />
+      <workItem from="1646574050433" duration="8061000" />
+      <workItem from="1646588426069" duration="2036000" />
+      <workItem from="1646591194044" duration="2143000" />
+      <workItem from="1646594145351" duration="662000" />
+      <workItem from="1646595215847" duration="1654000" />
+      <workItem from="1646596986797" duration="1625000" />
+      <workItem from="1646600986943" duration="239000" />
+      <workItem from="1646638350099" duration="14855000" />
+      <workItem from="1646658220367" duration="751000" />
+      <workItem from="1646659020872" duration="4466000" />
+      <workItem from="1646665298721" duration="374000" />
+      <workItem from="1646666250268" duration="2000" />
+      <workItem from="1646666388468" duration="475000" />
+      <workItem from="1646667531887" duration="955000" />
+      <workItem from="1646669479242" duration="443000" />
+      <workItem from="1646755070012" duration="9418000" />
+      <workItem from="1647535916349" duration="2939000" />
+      <workItem from="1647538940403" duration="1139000" />
+      <workItem from="1647541592739" duration="741000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="720" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1646580009220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="720" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1646580009220" />
+    <state x="718" y="380" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1646580148434">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="380" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.0.1920.1040@0.0.1920.1040" timestamp="1646580148434" />
+    <state width="571" height="464" key="DebuggerActiveHint" timestamp="1646759617393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="571" height="464" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1646759617393" />
+    <state width="1877" height="463" key="GridCell.Tab.0.bottom" timestamp="1647540088037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="463" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1647540088037" />
+    <state width="1877" height="463" key="GridCell.Tab.0.center" timestamp="1647540088037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="463" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1647540088037" />
+    <state width="1877" height="463" key="GridCell.Tab.0.left" timestamp="1647540088037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="463" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1647540088037" />
+    <state width="1877" height="463" key="GridCell.Tab.0.right" timestamp="1647540088037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="463" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1647540088037" />
+    <state width="1877" height="463" key="GridCell.Tab.1.bottom" timestamp="1647540088037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="463" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1647540088037" />
+    <state width="1877" height="463" key="GridCell.Tab.1.center" timestamp="1647540088037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="463" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1647540088037" />
+    <state width="1877" height="463" key="GridCell.Tab.1.left" timestamp="1647540088037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="463" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1647540088037" />
+    <state width="1877" height="463" key="GridCell.Tab.1.right" timestamp="1647540088037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="463" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1647540088037" />
+    <state width="1877" height="463" key="GridCell.Tab.2.bottom" timestamp="1647540088037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="463" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1647540088037" />
+    <state width="1877" height="463" key="GridCell.Tab.2.center" timestamp="1647540088037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="463" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1647540088037" />
+    <state width="1877" height="463" key="GridCell.Tab.2.left" timestamp="1647540088037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="463" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1647540088037" />
+    <state width="1877" height="463" key="GridCell.Tab.2.right" timestamp="1647540088037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="463" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1647540088037" />
+    <state width="1877" height="463" key="GridCell.Tab.3.bottom" timestamp="1647540088037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="463" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1647540088037" />
+    <state width="1877" height="463" key="GridCell.Tab.3.center" timestamp="1647540088037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="463" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1647540088037" />
+    <state width="1877" height="463" key="GridCell.Tab.3.left" timestamp="1647540088037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="463" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1647540088037" />
+    <state width="1877" height="463" key="GridCell.Tab.3.right" timestamp="1647540088037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="463" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1647540088037" />
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1646402582418">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1646402582418" />
+    <state x="780" y="236" key="RiderGenerateDialog" timestamp="1647536752840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="780" y="236" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1647536752840" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1646592829475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1646592829475" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1646497887605">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1646497887605" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/966F8708-31F2-4357-ACEC-C7DF1AF2D310/eb/565b84b4/UnClampedSwipeAxis.cs</url>
+          <line>36</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/966F8708-31F2-4357-ACEC-C7DF1AF2D310/eb/565b84b4/UnClampedSwipeAxis.cs" initialLine="36">
+            <startOffsets>
+              <option value="1142" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1173" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/466EAA17-7941-4F65-A0B1-F38E7C065EBE/7b/0352afbe/UnClampedMouseAxis.cs</url>
+          <line>25</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/466EAA17-7941-4F65-A0B1-F38E7C065EBE/7b/0352afbe/UnClampedMouseAxis.cs" initialLine="25">
+            <startOffsets>
+              <option value="720" />
+            </startOffsets>
+            <endOffsets>
+              <option value="781" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/466EAA17-7941-4F65-A0B1-F38E7C065EBE/7b/0352afbe/UnClampedMouseAxis.cs</url>
+          <line>24</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/466EAA17-7941-4F65-A0B1-F38E7C065EBE/7b/0352afbe/UnClampedMouseAxis.cs" initialLine="24">
+            <startOffsets>
+              <option value="669" />
+            </startOffsets>
+            <endOffsets>
+              <option value="713" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/466EAA17-7941-4F65-A0B1-F38E7C065EBE/7b/0352afbe/UnClampedMouseAxis.cs</url>
+          <line>26</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/466EAA17-7941-4F65-A0B1-F38E7C065EBE/7b/0352afbe/UnClampedMouseAxis.cs" initialLine="26">
+            <startOffsets>
+              <option value="788" />
+            </startOffsets>
+            <endOffsets>
+              <option value="824" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/466EAA17-7941-4F65-A0B1-F38E7C065EBE/7b/0352afbe/UnClampedMouseAxis.cs</url>
+          <line>27</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/466EAA17-7941-4F65-A0B1-F38E7C065EBE/7b/0352afbe/UnClampedMouseAxis.cs" initialLine="27">
+            <startOffsets>
+              <option value="831" />
+            </startOffsets>
+            <endOffsets>
+              <option value="850" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/466EAA17-7941-4F65-A0B1-F38E7C065EBE/53/7c160e03/ConstantClampAxis.cs</url>
+          <line>21</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/466EAA17-7941-4F65-A0B1-F38E7C065EBE/53/7c160e03/ConstantClampAxis.cs" initialLine="21">
+            <startOffsets>
+              <option value="607" />
+            </startOffsets>
+            <endOffsets>
+              <option value="608" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF6FC368-CF55-4A18-A2BE-172E67348462/fc/35b32271/DeltaProxy`1.cs</url>
+          <line>33</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF6FC368-CF55-4A18-A2BE-172E67348462/fc/35b32271/DeltaProxy`1.cs" initialLine="33">
+            <startOffsets>
+              <option value="891" />
+            </startOffsets>
+            <endOffsets>
+              <option value="919" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF6FC368-CF55-4A18-A2BE-172E67348462/fc/35b32271/DeltaProxy`1.cs</url>
+          <line>35</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF6FC368-CF55-4A18-A2BE-172E67348462/fc/35b32271/DeltaProxy`1.cs" initialLine="35">
+            <startOffsets>
+              <option value="942" />
+            </startOffsets>
+            <endOffsets>
+              <option value="962" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF6FC368-CF55-4A18-A2BE-172E67348462/fc/35b32271/DeltaProxy`1.cs</url>
+          <line>32</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF6FC368-CF55-4A18-A2BE-172E67348462/fc/35b32271/DeltaProxy`1.cs" initialLine="32">
+            <startOffsets>
+              <option value="841" />
+            </startOffsets>
+            <endOffsets>
+              <option value="884" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF6FC368-CF55-4A18-A2BE-172E67348462/f6/e83c8c8c/Timer.cs</url>
+          <line>68</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF6FC368-CF55-4A18-A2BE-172E67348462/f6/e83c8c8c/Timer.cs" initialLine="68">
+            <startOffsets>
+              <option value="1450" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1472" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF6FC368-CF55-4A18-A2BE-172E67348462/f6/e83c8c8c/Timer.cs</url>
+          <line>54</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF6FC368-CF55-4A18-A2BE-172E67348462/f6/e83c8c8c/Timer.cs" initialLine="54">
+            <startOffsets>
+              <option value="1167" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1197" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Features/Cubes/Cube.cs</url>
+          <line>37</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Features/Cubes/Cube.cs" initialLine="37">
+            <startOffsets>
+              <option value="896" />
+            </startOffsets>
+            <endOffsets>
+              <option value="924" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E78BF727-8CF6-4FD1-82D0-2AD441C085ED/01/e2afb4e4/ConstantMultiplyDeltaPosition.cs</url>
+          <line>22</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E78BF727-8CF6-4FD1-82D0-2AD441C085ED/01/e2afb4e4/ConstantMultiplyDeltaPosition.cs" initialLine="22">
+            <startOffsets>
+              <option value="776" />
+            </startOffsets>
+            <endOffsets>
+              <option value="833" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\PC\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\PC\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_Runner.-1427420128.00" t="ExcludeRecursive" />
+    <e p="C:\Users\PC\Desktop\Runner" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Features" t="Include">
+          <e p="Barriers" t="Include">
+            <e p="Barrier.cs" t="Include" />
+            <e p="Factories" t="Include">
+              <e p="BarrierFactory.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Common" t="Include">
+            <e p="CellTypeFloatPair.cs" t="Include" />
+            <e p="DefaultCubeFactoryProxy.cs" t="Include" />
+            <e p="EmptyHandler.cs" t="Include" />
+            <e p="FloatRange.cs" t="Include" />
+            <e p="FollowForNearest.cs" t="Include" />
+            <e p="IFactory.cs" t="Include" />
+            <e p="IHandler.cs" t="Include" />
+            <e p="IntRange.cs" t="Include" />
+            <e p="SmoothStashDelta.cs" t="Include" />
+          </e>
+          <e p="Cubes" t="Include">
+            <e p="Cube.cs" t="Include" />
+            <e p="Factories" t="Include">
+              <e p="CubeFactory.cs" t="Include" />
+            </e>
+            <e p="IGameUpdate.cs" t="Include" />
+          </e>
+          <e p="Games" t="Include">
+            <e p="Game.cs" t="Include" />
+          </e>
+          <e p="GameUpdate" t="Include">
+            <e p="GameUpdates.cs" t="Include" />
+            <e p="UpdateProxy.cs" t="Include" />
+          </e>
+          <e p="Installers" t="Include">
+            <e p="GameInstaller.cs" t="Include" />
+          </e>
+          <e p="LevelGenerators" t="Include">
+            <e p="CellTypes" t="Include">
+              <e p="CellType.cs" t="Include" />
+            </e>
+            <e p="DefaultGenerator.cs" t="Include" />
+            <e p="LevelGenerator.cs" t="Include" />
+            <e p="LevelGeneratorConfig.cs" t="Include" />
+          </e>
+          <e p="Maps" t="Include">
+            <e p="Finishes" t="Include">
+              <e p="Finish.cs" t="Include" />
+            </e>
+            <e p="Map.cs" t="Include" />
+          </e>
+          <e p="Markers" t="Include">
+            <e p="CameraTransform.cs" t="Include" />
+            <e p="CubePosition.cs" t="Include" />
+            <e p="FinishMarker.cs" t="Include" />
+            <e p="LevelMarker.cs" t="Include" />
+            <e p="Marker.cs" t="Include" />
+            <e p="PlayerStartPosition.cs" t="Include" />
+          </e>
+          <e p="Players" t="Include">
+            <e p="Player.cs" t="Include" />
+          </e>
+          <e p="Scores" t="Include">
+            <e p="Score.cs" t="Include" />
+          </e>
+          <e p="Views" t="Include">
+            <e p="EndGameView.cs" t="Include" />
+          </e>
+        </e>
+        <e p="JMO Assets" t="Include">
+          <e p="!JMO Assets Readme.txt" t="Include" />
+          <e p="Cartoon FX" t="Include">
+            <e p="CartoonFX Readme.txt" t="Include" />
+            <e p="CartoonFX Releases Notes.txt" t="Include" />
+            <e p="Demo" t="Include">
+              <e p="Assets" t="Include">
+                <e p="CFX_Demo.cs" t="Include" />
+                <e p="CFX_Demo_RandomDir.cs" t="Include" />
+                <e p="CFX_Demo_RandomDirectionTranslate.cs" t="Include" />
+                <e p="CFX_Demo_RotateCamera.cs" t="Include" />
+                <e p="CFX_Demo_WaterWiggle.shader" t="Include" />
+              </e>
+            </e>
+            <e p="Editor" t="Include">
+              <e p="CFX_SpawnSystemEditor.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="CFX_AutoDestructShuriken.cs" t="Include" />
+              <e p="CFX_AutodestructWhenNoChildren.cs" t="Include" />
+              <e p="CFX_AutoRotate.cs" t="Include" />
+              <e p="CFX_LightIntensityFade.cs" t="Include" />
+              <e p="CFX_ShurikenThreadFix.cs" t="Include" />
+            </e>
+            <e p="Shaders (Mobile)" t="Include">
+              <e p="CFXM_MobileParticleAdd_Alpha8.shader" t="Include" />
+            </e>
+            <e p="Spawn System" t="Include">
+              <e p="CFX_SpawnSystem.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Cartoon FX Easy Editor" t="Include">
+            <e p="CartoonFX Easy Editor Readme.txt" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="CFXEasyEditor.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Toony Colors Pro" t="Include">
+          <e p="!ToonyColorsPro Readme.txt" t="Include" />
+          <e p="Editor" t="Include">
+            <e p="Fonts" t="Include">
+              <e p="Roboto" t="Include">
+                <e p="Roboto - Apache License.txt" t="Include" />
+              </e>
+              <e p="sen" t="Include">
+                <e p="sen - SIL Open Font License.txt" t="Include" />
+              </e>
+            </e>
+            <e p="GradientManager.cs" t="Include" />
+            <e p="Inspectors" t="Include">
+              <e p="GC_Else.cs" t="Include" />
+              <e p="GC_EndIf.cs" t="Include" />
+              <e p="GC_EndIfDisable.cs" t="Include" />
+              <e p="GC_Header.cs" t="Include" />
+              <e p="GC_HelpBox.cs" t="Include" />
+              <e p="GC_IfDisableKeyword.cs" t="Include" />
+              <e p="GC_IfDisableProperty.cs" t="Include" />
+              <e p="GC_IfKeyword.cs" t="Include" />
+              <e p="GC_IfProperty.cs" t="Include" />
+              <e p="GC_IfURP.cs" t="Include" />
+              <e p="GC_Label.cs" t="Include" />
+              <e p="GC_Separator.cs" t="Include" />
+              <e p="GC_SeparatorDouble.cs" t="Include" />
+              <e p="GC_Space.cs" t="Include" />
+              <e p="GUICommand.cs" t="Include" />
+              <e p="MaterialInspector_Hybrid.cs" t="Include" />
+              <e p="MaterialInspector_SG2.cs" t="Include" />
+              <e p="TCP2_GetPosOnWater_Editor.cs" t="Include" />
+              <e p="TCP2_MaterialInspector.cs" t="Include" />
+              <e p="TCP2_MaterialInspector_PBS.cs" t="Include" />
+              <e p="TCP2_OutlineInspector.cs" t="Include" />
+              <e p="TCP2_ShaderUpdateUnityTime_Editor.cs" t="Include" />
+            </e>
+            <e p="Legacy" t="Include">
+              <e p="TCP2_Config.cs" t="Include" />
+              <e p="TCP2_MaterialInspector_PBS_SG.cs" t="Include" />
+              <e p="TCP2_MaterialInspector_SG.cs" t="Include" />
+              <e p="TCP2_MaterialInspector_SurfacePBS_SG.cs" t="Include" />
+              <e p="TCP2_ShaderGenerator.cs" t="Include" />
+              <e p="TCP2_ShaderGenerator.UIFeatures.cs" t="Include" />
+              <e p="TCP2_ShaderGeneratorUtils.cs" t="Include" />
+            </e>
+            <e p="Menu.cs" t="Include" />
+            <e p="Shader Generator" t="Include">
+              <e p="BlendFactor.cs" t="Include" />
+              <e p="BlendOperation.cs" t="Include" />
+              <e p="CodeInjectionManager.cs" t="Include" />
+              <e p="CompareFunction.cs" t="Include" />
+              <e p="Config.cs" t="Include" />
+              <e p="Culling.cs" t="Include" />
+              <e p="DepthWrite.cs" t="Include" />
+              <e p="Enums.cs" t="Include" />
+              <e p="GlobalOptions.cs" t="Include" />
+              <e p="IMaterialPropertyName.cs" t="Include" />
+              <e p="Module.cs" t="Include" />
+              <e p="ProjectOptions.cs" t="Include" />
+              <e p="ReorderableLayoutList.cs" t="Include" />
+              <e p="Serialization.cs" t="Include" />
+              <e p="SGUILayout.cs" t="Include" />
+              <e p="ShaderGenerator2.cs" t="Include" />
+              <e p="ShaderProperty.cs" t="Include" />
+              <e p="ShaderProperty.CustomMaterialProperty.cs" t="Include" />
+              <e p="ShaderProperty.Implementations.cs" t="Include" />
+              <e p="StencilOperation.cs" t="Include" />
+              <e p="Template.cs" t="Include" />
+              <e p="Tooltip.cs" t="Include" />
+              <e p="UIFeature.cs" t="Include" />
+              <e p="UIFeature_DropDownEnd.cs" t="Include" />
+              <e p="UIFeature_DropDownStart.cs" t="Include" />
+              <e p="UIFeature_Flag.cs" t="Include" />
+              <e p="UIFeature_Float.cs" t="Include" />
+              <e p="UIFeature_Header.cs" t="Include" />
+              <e p="UIFeature_Int.cs" t="Include" />
+              <e p="UIFeature_Keyword.cs" t="Include" />
+              <e p="UIFeature_KeywordString.cs" t="Include" />
+              <e p="UIFeature_MultFlags.cs" t="Include" />
+              <e p="UIFeature_Multiple.cs" t="Include" />
+              <e p="UIFeature_MultipleFixedFunction.cs" t="Include" />
+              <e p="UIFeature_Separator.cs" t="Include" />
+              <e p="UIFeature_Single.cs" t="Include" />
+              <e p="UIFeature_Space.cs" t="Include" />
+              <e p="UIFeature_SubHeader.cs" t="Include" />
+              <e p="UIFeature_Warning.cs" t="Include" />
+              <e p="UniqueMaterialPropertyName.cs" t="Include" />
+            </e>
+            <e p="TCP2_RampGenerator.cs" t="Include" />
+            <e p="TCP2_SmoothedNormalsUtility.cs" t="Include" />
+            <e p="ToonyColorsPro.Editor.asmdef" t="Include" />
+            <e p="Utils" t="Include">
+              <e p="ExpressionParser.cs" t="Include" />
+              <e p="MaterialTCP2EnumDrawer.cs" t="Include" />
+              <e p="TCP2_GUI.cs" t="Include" />
+              <e p="TCP2ColorNoAlphaDrawer.cs" t="Include" />
+              <e p="TCP2GradientDrawer.cs" t="Include" />
+              <e p="TCP2HeaderDecorator.cs" t="Include" />
+              <e p="TCP2HeaderHelpDecorator.cs" t="Include" />
+              <e p="TCP2HeaderToggleDrawer.cs" t="Include" />
+              <e p="TCP2HelpBoxDecorator.cs" t="Include" />
+              <e p="TCP2KeywordFilterDrawer.cs" t="Include" />
+              <e p="TCP2MaterialKeywordEnumNoPrefixDrawer.cs" t="Include" />
+              <e p="TCP2OutlineNormalsGUIDrawer.cs" t="Include" />
+              <e p="TCP2SeparatorDecorator.cs" t="Include" />
+              <e p="TCP2TextureSingleLine.cs" t="Include" />
+              <e p="TCP2ToggleNoKeywordDrawer.cs" t="Include" />
+              <e p="TCP2UVScrolling.cs" t="Include" />
+              <e p="TCP2Vector3FloatsDrawer.cs" t="Include" />
+              <e p="TCP2Vector4FloatsDrawer.cs" t="Include" />
+              <e p="Utils.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="TCP2_CameraDepth.cs" t="Include" />
+            <e p="TCP2_GetPosOnWater.cs" t="Include" />
+            <e p="TCP2_PlanarReflection.cs" t="Include" />
+            <e p="TCP2_PlanarReflectionEditor.cs" t="Include" />
+            <e p="TCP2_RuntimeUtils.cs" t="Include" />
+            <e p="TCP2_ShaderUpdateUnityTime.cs" t="Include" />
+            <e p="ToonyColorsPro.Runtime.asmdef" t="Include" />
+          </e>
+          <e p="Shader Templates" t="Include">
+            <e p="TCP2_ShaderTemplate_Default.txt" t="Include" />
+            <e p="TCP2_ShaderTemplate_Default_CurvedWorld.txt" t="Include" />
+            <e p="TCP2_ShaderTemplate_PBS.txt" t="Include" />
+            <e p="TCP2_ShaderTemplate_SurfacePBS.txt" t="Include" />
+            <e p="TCP2_ShaderTemplate_Terrain.txt" t="Include" />
+            <e p="TCP2_ShaderTemplate_Water.txt" t="Include" />
+            <e p="TCP2_ShaderTemplate_Water_CurvedWorld.txt" t="Include" />
+          </e>
+          <e p="Shader Templates 2" t="Include">
+            <e p="Modules" t="Include">
+              <e p="Module_AlbedoHSV.txt" t="Include" />
+              <e p="Module_Aura2.txt" t="Include" />
+              <e p="Module_CurvedWorld.txt" t="Include" />
+              <e p="Module_CustomAmbient.txt" t="Include" />
+              <e p="Module_DepthTexture.txt" t="Include" />
+              <e p="Module_Dissolve.txt" t="Include" />
+              <e p="Module_Hash Functions.txt" t="Include" />
+              <e p="Module_HSV.txt" t="Include" />
+              <e p="Module_MatCap.txt" t="Include" />
+              <e p="Module_NdotL Stylization.txt" t="Include" />
+              <e p="Module_Normal Mapping.txt" t="Include" />
+              <e p="Module_NoTile Sampling.txt" t="Include" />
+              <e p="Module_Outline.txt" t="Include" />
+              <e p="Module_Ramp Shading LWRP.txt" t="Include" />
+              <e p="Module_Ramp Shading.txt" t="Include" />
+              <e p="Module_Reflection.txt" t="Include" />
+              <e p="Module_Rim Lighting.txt" t="Include" />
+              <e p="Module_Screen Space UV.txt" t="Include" />
+              <e p="Module_ShadowHSV.txt" t="Include" />
+              <e p="Module_Sketch.txt" t="Include" />
+              <e p="Module_Specular.txt" t="Include" />
+              <e p="Module_Subsurface Scattering.txt" t="Include" />
+              <e p="Module_Texture Blending.txt" t="Include" />
+              <e p="Module_Triplanar Sampling.txt" t="Include" />
+              <e p="Module_Triplanar.txt" t="Include" />
+              <e p="Module_VertExmotion.txt" t="Include" />
+              <e p="Module_Vertical Fog.txt" t="Include" />
+              <e p="Module_Water.txt" t="Include" />
+              <e p="Module_Wind.txt" t="Include" />
+            </e>
+            <e p="SG2_Template_Default.txt" t="Include" />
+            <e p="SG2_Template_LWRP.txt" t="Include" />
+            <e p="SG2_Template_URP.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="Hybrid" t="Include">
+              <e p="TCP2 Hybrid Include.cginc" t="Include" />
+              <e p="TCP2 Hybrid Shader Outline.shader" t="Include" />
+              <e p="TCP2 Hybrid Shader.shader" t="Include" />
+              <e p="TCP2 Hybrid URP Support.cginc" t="Include" />
+            </e>
+            <e p="Legacy" t="Include">
+              <e p="Include" t="Include">
+                <e p="TCP2_Include.cginc" t="Include" />
+                <e p="TCP2_Outline.shader" t="Include" />
+                <e p="TCP2_Outline_Behind.shader" t="Include" />
+                <e p="TCP2_Outline_Behind_SM2.shader" t="Include" />
+                <e p="TCP2_Outline_Include.cginc" t="Include" />
+                <e p="TCP2_Outline_SM2.shader" t="Include" />
+                <e p="TCP2_Outline_Stencil.shader" t="Include" />
+              </e>
+              <e p="TCP2_Desktop.shader" t="Include" />
+              <e p="TCP2_Mobile.shader" t="Include" />
+              <e p="TCP2_OutlineOnly Blended SM2.shader" t="Include" />
+              <e p="TCP2_OutlineOnly Blended.shader" t="Include" />
+              <e p="TCP2_OutlineOnly SM2.shader" t="Include" />
+              <e p="TCP2_OutlineOnly.shader" t="Include" />
+              <e p="Variants Base" t="Include">
+                <e p="TCP2_Desktop_Outline.shader" t="Include" />
+                <e p="TCP2_Desktop_OutlineBlending.shader" t="Include" />
+                <e p="TCP2_Desktop_Specular.shader" t="Include" />
+                <e p="TCP2_Desktop_Specular_Outline.shader" t="Include" />
+                <e p="TCP2_Desktop_Specular_OutlineBlending.shader" t="Include" />
+                <e p="TCP2_Mobile_Outline.shader" t="Include" />
+                <e p="TCP2_Mobile_OutlineBlending.shader" t="Include" />
+                <e p="TCP2_Mobile_Specular.shader" t="Include" />
+                <e p="TCP2_Mobile_Specular_Outline.shader" t="Include" />
+                <e p="TCP2_Mobile_Specular_OutlineBlending.shader" t="Include" />
+              </e>
+            </e>
+            <e p="Standard PBS" t="Include">
+              <e p="TCP2_PBS_BRDF.cginc" t="Include" />
+              <e p="TCP2_PBS_Core.cginc" t="Include" />
+              <e p="TCP2_PBS_Main.cginc" t="Include" />
+              <e p="TCP2_PBS_ShadowMeta.shader" t="Include" />
+              <e p="TCP2_Standard PBS (Specular).shader" t="Include" />
+              <e p="TCP2_Standard PBS Outline (Specular).shader" t="Include" />
+              <e p="TCP2_Standard PBS Outline Blended (Specular).shader" t="Include" />
+              <e p="TCP2_Standard PBS Outline Blended.shader" t="Include" />
+              <e p="TCP2_Standard PBS Outline.shader" t="Include" />
+              <e p="TCP2_Standard PBS.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Shaders Generated" t="Include">
+            <e p="Examples" t="Include">
+              <e p="Default" t="Include">
+                <e p="Comic Book.shader" t="Include" />
+                <e p="Dissolve.shader" t="Include" />
+                <e p="HSV.shader" t="Include" />
+                <e p="Old School.shader" t="Include" />
+                <e p="Sketch.shader" t="Include" />
+                <e p="Snow Accumulation.shader" t="Include" />
+                <e p="Subsurface Scattering.shader" t="Include" />
+              </e>
+              <e p="PBS" t="Include">
+                <e p="Blended Outline.shader" t="Include" />
+                <e p="Hand Painted.shader" t="Include" />
+                <e p="Outline Behind.shader" t="Include" />
+                <e p="Sketch.shader" t="Include" />
+              </e>
+              <e p="SG2" t="Include">
+                <e p="Animated Dissolve.shader" t="Include" />
+                <e p="Detail Texture Simple.shader" t="Include" />
+                <e p="Detail Texture.shader" t="Include" />
+                <e p="Hologram.shader" t="Include" />
+                <e p="Stylized Water.shader" t="Include" />
+                <e p="Vertex Color Albedo.shader" t="Include" />
+                <e p="Wind Animation.shader" t="Include" />
+              </e>
+              <e p="Water" t="Include">
+                <e p="Lava Cartoon.shader" t="Include" />
+                <e p="Lava.shader" t="Include" />
+                <e p="Poison.shader" t="Include" />
+                <e p="Realistic.shader" t="Include" />
+                <e p="Reflection.shader" t="Include" />
+                <e p="Water WindWaker.shader" t="Include" />
+                <e p="Water WindWaker2.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Runner.sln" t="IncludeFlat" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+      <e p="ToonyColorsPro.Editor.csproj" t="IncludeRecursive" />
+      <e p="ToonyColorsPro.Runtime.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>
